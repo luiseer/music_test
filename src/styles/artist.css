@@ -1,0 +1,15 @@
+:root{
+    --fuente-principal: 'Roboto', sans-serif;
+    /* colores */
+    --color-blanco: #fff;
+    --color-gris-claro: #fafafa;
+    --colo-negro: #000;
+    --color-principal: #AF18A5;
+    --color-secundario: #F7CE2D;
+    --color-verde: #2DF7E0;
+    --color-azul: #05AB98;
+  }
+
+  p{
+      color: var(--color-blanco);
+  }
